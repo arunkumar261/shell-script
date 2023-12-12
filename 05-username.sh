@@ -17,4 +17,4 @@
 
 echo "pls enter ur username "
 read -s USERNAME
-echo  "USERNAME IS : $USERNAME"
+echo  "USERNAME IS : $USERNAME"   #just writing this line for checking purpose actually u cannot write this 
