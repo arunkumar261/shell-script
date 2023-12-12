@@ -17,8 +17,8 @@
 
 echo "pls enter ur username : "
 read -s USERNAME
-echo  "USERNAME IS : $USERNAME"   #just writing this line for checking purpose actually u cannot write username and password
+echo  "USERNAME IS : $USERNAME"   #just writing this line for checking purpose actually u cannot write this line username and password
 
 echo "pls enter ur password : "
 read -s PASSWORD
-echo  "USERNAME IS : $PASSWORD"
+echo  "USERNAME IS : $PASSWORD"   #just writing this line for checking purpose actually u cannot write this line username and password
