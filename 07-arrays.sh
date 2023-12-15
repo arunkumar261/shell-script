@@ -9,4 +9,4 @@ echo "first value : ${fruits[1]}"
 
 echo "first value : ${fruits[2]}"
 
-echo "all fruits : ${fruits[@]}"
+echo "all fruits : ${fruits[@]}"    
